@@ -1,6 +1,6 @@
 # Captain-America-Shield
 Captain America Shield using Python
-
+---------------------------------
 Instructions:
 1. Download zip file
 2. Extract zip file
@@ -8,7 +8,15 @@ Instructions:
 4. Copy all the files (except read me)
 5. Install necessory packages (turtle module)
 6. Run and Enjoy
-
-Contact Us
-For Upcomming projects
-@harsh_shri0711 on Instagram
+---------------------------------
+Like, Comment, Share & Follow 
+---------------------------------
+Turn on Notification Bell 🛎 
+Never Miss any Updates 😁🙏
+---------------------------------
+Developed By:
+Harshit Shrivastava
+---------------------------------
+Socials: 
+○ Instagram @harsh_shri0711
+○ GitHub https://github.com/HarshShri0711
